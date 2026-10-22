@@ -1,0 +1,14 @@
+# C build
+tetris
+*.o
+
+# Free Pascal build
+*.exe
+*.ppu
+*.a
+link.res
+ppas.sh
+Tetris
+
+# High-score file created at runtime
+rekordok.txt
